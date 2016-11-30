@@ -54,7 +54,6 @@ public class ArticleListRecycleFragment extends Fragment {
         listener = null;
     }
 
-
     @Override
     public void onSaveInstanceState(Bundle outState) {
         super.onSaveInstanceState(outState);
