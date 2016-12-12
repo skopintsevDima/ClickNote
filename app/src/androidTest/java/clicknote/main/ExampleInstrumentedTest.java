@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("clicknote.main", appContext.getPackageName());
+        assertEquals("clicknote.menu_texts", appContext.getPackageName());
     }
 }
